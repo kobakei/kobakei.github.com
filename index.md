@@ -7,6 +7,21 @@
 - M.S in engineering
   - Machine learning
   - Computer vision
+  
+### Personal projects
+
+#### Android libraries
+
+- [Android-RateThisApp](https://github.com/kobakei/Android-RateThisApp)
+- [spot](https://github.com/kobakei/spot)
+- [grenade](https://github.com/kobakei/grenade)
+- [CenteredDrawableButton](https://github.com/kobakei/CenteredDrawableButton)
+
+#### Android app
+
+- LoopTube (closed)
+  - YouTube player app
+  - 0.4M downloads
 
 ### SNS / Blog
 
