@@ -34,7 +34,7 @@ Android & serverエンジニアです。
   - YouTube動画をバックグラウンド再生するアプリ
   - プロモーションなしで40万ダウンロード達成
 
-### SNS・ブログなど
+# SNS・ブログなど
 
 * [GitHub](https://github.com/kobakei)
 * [Twitter](https://twitter.com/kobakei122)
@@ -45,6 +45,6 @@ Android & serverエンジニアです。
 * [Qiita](http://qiita.com/kobakei)
 * [Hatena](http://kobakei.hatenadiary.jp/)
 
-### 問い合わせ
+# 問い合わせ
 
 kobakei122@gmail.com までお願いします。
