@@ -32,7 +32,7 @@ Android & serverエンジニアです。
 
 - LoopTube (公開停止)
   - YouTube動画をバックグラウンド再生するアプリ
-  - 0.4M downloads
+  - プロモーションなしで40万ダウンロード達成
 
 ### SNS・ブログなど
 
