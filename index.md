@@ -47,4 +47,4 @@ Android & サーバーエンジニアです。
 
 # 問い合わせ
 
-kobakei122@gmail.com までお願いします。
+Twitterまたは[メール](mailto:kobakei122@gmail.com)でお願いします。
