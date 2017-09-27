@@ -8,14 +8,15 @@ Android & serverエンジニアです。
 - ウェブサービス開発
 - その他技術支援・アドバイスなど
 
-# 作ったもの
+# 開発実績
 
-## 会社
+## 業務
 
-- Kyash
-- Coubic
-- Popcorn
-- 消滅都市  
+- [Kyash](https://kyash.co/) (Android)
+- [Coubic](https://coubic.com/) (Android, Backend)
+- [Popcorn](https://popcorn.coubic.com/) (Android, Backend)
+- [消滅都市](http://shoumetsu.wrightflyer.net/) (Client, Backend)
+- [パズクエ](http://puzzque.wrightflyer.net/) (Client)
  
 ## 個人プロジェクト
 
@@ -30,8 +31,8 @@ Android & serverエンジニアです。
 #### Androidアプリ
 
 - LoopTube (公開停止)
-  - YouTube動画をバックグラウンド再生するアプリ
-  - 0.4M downloads
+  - YouTube動画をバックグラウンド再生するアプリ
+  - 0.4M downloads
 
 ### SNS・ブログなど
 
