@@ -34,6 +34,10 @@ Android & サーバーエンジニアです。
   - YouTube動画をバックグラウンド再生するアプリ
   - プロモーションなしで40万ダウンロード達成
 
+## 発表実績
+
+- [Speaker Deck](https://speakerdeck.com/kobakei)
+
 # SNS・ブログなど
 
 * [GitHub](https://github.com/kobakei)
