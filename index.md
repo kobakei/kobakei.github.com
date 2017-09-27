@@ -1,16 +1,25 @@
-### About Me
+Android & serverエンジニアです。
 
-- Software engineer
-  - 6+ years mobile app development (Android, Unity, cocos2d-x)
-  - 3+ years web app development (Ruby on Rails, PHP, MySQL)
-  - 2 years embedded system development
-- M.S in engineering
-  - Machine learning
-  - Computer vision
-  
-### Personal projects
+スタートアップで働きながら、副業でアプリ開発のお手伝いをさせて頂いております。
 
-#### Android libraries
+# 主な内容
+
+- スマホアプリ開発
+- ウェブサービス開発
+- その他技術支援・アドバイスなど
+
+# 作ったもの
+
+## 会社
+
+- Kyash
+- Coubic
+- Popcorn
+- 消滅都市  
+ 
+## 個人プロジェクト
+
+#### Androidライブラリ
 
 - [MaterialFabSpeedDial](https://github.com/kobakei/MaterialFabSpeedDial)
 - [Android-RateThisApp](https://github.com/kobakei/Android-RateThisApp)
@@ -18,13 +27,13 @@
 - [grenade](https://github.com/kobakei/grenade)
 - [CenteredDrawableButton](https://github.com/kobakei/CenteredDrawableButton)
 
-#### Android app
+#### Androidアプリ
 
-- LoopTube (closed)
-  - YouTube player app
-  - 0.4M downloads
+- LoopTube (公開停止)
+  - YouTube動画をバックグラウンド再生するアプリ
+  - 0.4M downloads
 
-### SNS / Blog
+### SNS・ブログなど
 
 * [GitHub](https://github.com/kobakei)
 * [Twitter](https://twitter.com/kobakei122)
@@ -34,3 +43,7 @@
 * [Wantedly](https://www.wantedly.com/users/13255)
 * [Qiita](http://qiita.com/kobakei)
 * [Hatena](http://kobakei.hatenadiary.jp/)
+
+### 問い合わせ
+
+kobakei122@gmail.com までお願いします。
