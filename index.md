@@ -8,6 +8,20 @@ Android & サーバーエンジニアです。
 - ウェブサービス開発
 - その他技術支援・アドバイスなど
 
+# 技術
+
+## 言語
+
+Kotlin/Java/Ruby/C++/JavaScript/C#/Objective-C
+
+## WAF
+
+Rails
+
+## ミドルウェア
+
+Unity/cocos2d-x
+
 # 開発実績
 
 ## 業務
