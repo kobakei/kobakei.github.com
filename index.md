@@ -1,6 +1,6 @@
 Android & サーバーエンジニアです。
 
-スタートアップで働きながら、副業でアプリ開発のお手伝いをさせて頂いております。
+スタートアップで働きながら、副業でアプリ開発のお手伝いをさせて頂いております。お仕事の依頼お待ちしております。
 
 # 主な内容
 
@@ -14,11 +14,11 @@ Android & サーバーエンジニアです。
 
 Kotlin/Java/Ruby/C++/JavaScript/C#/Objective-C
 
-## WAF
+## ライブラリ・フレームワーク
 
-Rails
+Ruby on Rails/Bootstrap/React
 
-## ミドルウェア
+## ゲームエンジン
 
 Unity/cocos2d-x
 
@@ -27,10 +27,19 @@ Unity/cocos2d-x
 ## 業務
 
 - [Kyash](https://kyash.co/) (Android)
-- [Coubic](https://coubic.com/) (Android, Backend)
-- [Popcorn](https://popcorn.coubic.com/) (Android, Backend)
-- [消滅都市](http://shoumetsu.wrightflyer.net/) (Client, Backend)
+  - Android開発を一人で担当
+- [Coubic](https://coubic.com/) (Android, Backend, Frontend)
+  - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
+- [Popcorn](https://popcorn.coubic.com/) (Android, Backend, Frondend)
+  - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
 - [パズクエ](http://puzzque.wrightflyer.net/) (Client)
+  - クライアント開発を担当。
+- [消滅都市](http://shoumetsu.wrightflyer.net/) (Client, Backend)
+  - クライアント開発を立ち上げ時から担当。他に、API開発。
+- Tellit (Client)
+  - Android開発を担当。他に、海外の開発会社のサポート。
+- GREE Platform SDK for Unity
+  - SDK開発を立ち上げから担当。
  
 ## 個人プロジェクト
 
