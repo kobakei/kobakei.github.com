@@ -29,7 +29,7 @@ Unity/cocos2d-x
 - [Kyash](https://kyash.co/) (Android)
   - Android開発を一人で担当
 - [Coubic](https://coubic.com/) (Android, Backend, Frontend)
-  - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
+  - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
 - [Popcorn](https://popcorn.coubic.com/) (Android, Backend, Frondend)
   - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
 - [パズクエ](http://puzzque.wrightflyer.net/) (Client)
