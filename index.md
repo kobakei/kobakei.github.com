@@ -41,7 +41,11 @@ Unity/cocos2d-x
   - Android開発を担当。他に、海外の開発会社のサポート。
 - GREE Platform SDK for Unity
   - SDK開発を立ち上げから担当。
- 
+
+## 副業
+
+- 某スタートアップでのAndroidチームの技術支援・アドバイス
+
 ## 個人プロジェクト
 
 #### Androidライブラリ
