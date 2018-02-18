@@ -12,7 +12,7 @@ Android & サーバーエンジニアです。
 
 ## 言語
 
-Kotlin/Java/Ruby/C++/JavaScript/C#/Objective-C
+Kotlin/Java/Swift/Objective-C/Ruby/C++/JavaScript/C#
 
 ## ライブラリ・フレームワーク
 
@@ -27,7 +27,8 @@ Unity/cocos2d-x
 ## 業務
 
 - [Kyash](https://kyash.co/) (Android)
-  - Android開発を一人で担当
+  - Android開発を立ち上げより担当
+  - iOS開発を担当。大規模リファクタリングなど
 - [Coubic](https://coubic.com/) (Android, Backend, Frontend)
   - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
 - [Popcorn](https://popcorn.coubic.com/) (Android, Backend, Frondend)
