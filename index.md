@@ -1,12 +1,16 @@
-クライアント & サーバーエンジニアです。
+ソフトウェアエンジニアです。
 
 スタートアップで働きながら、副業でアプリ開発のお手伝いをさせて頂いております。お仕事の依頼をTwitterまたは[メール](mailto:kobakei122@gmail.com)でお待ちしております。
 
 # 主な内容
 
+- エンジニア組織マネジメントのアドバイス（採用、評価、メンタリングなど）
 - スマホアプリ開発
 - ウェブサービス開発
-- その他技術支援・アドバイスなど
+
+# 職務経歴書
+
+[GitHubに公開しています](https://github.com/kobakei/Curriculum-Vitae)
 
 # 技術
 
@@ -22,6 +26,10 @@ Ruby on Rails/Bootstrap/React
 
 Unity/cocos2d-x
 
+# マネジメント経験
+
+８名程度まで（サーバーエンジニア、クライアントエンジニア両方含む）
+
 # 開発実績
 
 ## 業務
@@ -29,6 +37,7 @@ Unity/cocos2d-x
 - [Kyash](https://kyash.co/) (Android, iOS)
   - Android開発を立ち上げより担当
   - iOS開発を担当。大規模リファクタリングなど
+  - エンジニア組織のマネジメントや制度設計
 - [Coubic](https://coubic.com/) (Android, Backend, Frontend)
   - Android開発を一人で担当。他に、バックエンド開発、フロントエンド開発。
 - [Popcorn](https://popcorn.coubic.com/) (Android, Backend, Frondend)
@@ -42,7 +51,7 @@ Unity/cocos2d-x
 - GREE Platform SDK for Unity
   - SDK開発を立ち上げから担当。
 
-## 副業
+## 副業実績
 
 - 某スタートアップでのAndroidチームの技術支援・アドバイス
 
